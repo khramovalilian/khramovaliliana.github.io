@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Freigeist XWide';
+    src: url('../fonts/FreigeistXWide-Black.eot');
+    src: local('../fonts/Freigeist XWide Black'), local('FreigeistXWide-Black'),
+        url('../fonts/FreigeistXWide-Black.eot') format('embedded-opentype'),
+        url('../fonts/FreigeistXWide-Black.ttf') format('woff2'),
+        url('../fonts/FreigeistXWide-Black.woff') format('woff'),
+        url('../fonts/FreigeistXWide-Black.woff2') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Freigeist XWide';
+    src: url('../fonts/FreigeistXWide-Medium.eot');
+    src: local('../fonts/Freigeist XWide Medium'), local('FreigeistXWide-Medium'),
+        url('../fonts/FreigeistXWide-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/FreigeistXWide-Medium.woff2') format('woff2'),
+        url('../fonts/FreigeistXWide-Medium.woff') format('woff'),
+        url('../fonts/FreigeistXWide-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}

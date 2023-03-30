@@ -1,0 +1,144 @@
+@font-face {
+    font-family: 'Freigeist XWide';
+    src: url('FreigeistXWide-Thin.eot');
+    src: local('Freigeist XWide Thin'), local('FreigeistXWide-Thin'),
+        url('FreigeistXWide-Thin.eot?#iefix') format('embedded-opentype'),
+        url('FreigeistXWide-Thin.woff2') format('woff2'),
+        url('FreigeistXWide-Thin.woff') format('woff'),
+        url('FreigeistXWide-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Freigeist XWide';
+    src: url('FreigeistXWide-LightItalic.eot');
+    src: local('Freigeist XWide Light Italic'), local('FreigeistXWide-LightItalic'),
+        url('FreigeistXWide-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('FreigeistXWide-LightItalic.woff2') format('woff2'),
+        url('FreigeistXWide-LightItalic.woff') format('woff'),
+        url('FreigeistXWide-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Freigeist XWide';
+    src: url('FreigeistXWide-BlackItalic.eot');
+    src: local('Freigeist XWide Black Italic'), local('FreigeistXWide-BlackItalic'),
+        url('FreigeistXWide-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('FreigeistXWide-BlackItalic.woff2') format('woff2'),
+        url('FreigeistXWide-BlackItalic.woff') format('woff'),
+        url('FreigeistXWide-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Freigeist XWide';
+    src: url('FreigeistXWide-Light.eot');
+    src: local('Freigeist XWide Light'), local('FreigeistXWide-Light'),
+        url('FreigeistXWide-Light.eot?#iefix') format('embedded-opentype'),
+        url('FreigeistXWide-Light.woff2') format('woff2'),
+        url('FreigeistXWide-Light.woff') format('woff'),
+        url('FreigeistXWide-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Freigeist XWide';
+    src: url('FreigeistXWide-Black.eot');
+    src: local('Freigeist XWide Black'), local('FreigeistXWide-Black'),
+        url('FreigeistXWide-Black.eot?#iefix') format('embedded-opentype'),
+        url('FreigeistXWide-Black.woff2') format('woff2'),
+        url('FreigeistXWide-Black.woff') format('woff'),
+        url('FreigeistXWide-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Freigeist XWide';
+    src: url('FreigeistXWide-Medium.eot');
+    src: local('Freigeist XWide Medium'), local('FreigeistXWide-Medium'),
+        url('FreigeistXWide-Medium.eot?#iefix') format('embedded-opentype'),
+        url('FreigeistXWide-Medium.woff2') format('woff2'),
+        url('FreigeistXWide-Medium.woff') format('woff'),
+        url('FreigeistXWide-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Freigeist XWide';
+    src: url('FreigeistXWide-BoldItalic.eot');
+    src: local('Freigeist XWide Bold Italic'), local('FreigeistXWide-BoldItalic'),
+        url('FreigeistXWide-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('FreigeistXWide-BoldItalic.woff2') format('woff2'),
+        url('FreigeistXWide-BoldItalic.woff') format('woff'),
+        url('FreigeistXWide-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Freigeist XWide';
+    src: url('FreigeistXWide-ThinItalic.eot');
+    src: local('Freigeist XWide Thin Italic'), local('FreigeistXWide-ThinItalic'),
+        url('FreigeistXWide-ThinItalic.eot?#iefix') format('embedded-opentype'),
+        url('FreigeistXWide-ThinItalic.woff2') format('woff2'),
+        url('FreigeistXWide-ThinItalic.woff') format('woff'),
+        url('FreigeistXWide-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Freigeist XWide';
+    src: url('FreigeistXWide-RegularItalic.eot');
+    src: local('Freigeist XWide Italic'), local('FreigeistXWide-RegularItalic'),
+        url('FreigeistXWide-RegularItalic.eot?#iefix') format('embedded-opentype'),
+        url('FreigeistXWide-RegularItalic.woff2') format('woff2'),
+        url('FreigeistXWide-RegularItalic.woff') format('woff'),
+        url('FreigeistXWide-RegularItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Freigeist XWide';
+    src: url('FreigeistXWide-MediumItalic.eot');
+    src: local('Freigeist XWide Medium Italic'), local('FreigeistXWide-MediumItalic'),
+        url('FreigeistXWide-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('FreigeistXWide-MediumItalic.woff2') format('woff2'),
+        url('FreigeistXWide-MediumItalic.woff') format('woff'),
+        url('FreigeistXWide-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Freigeist XWide';
+    src: url('FreigeistXWide-Bold.eot');
+    src: local('Freigeist XWide Bold'), local('FreigeistXWide-Bold'),
+        url('FreigeistXWide-Bold.eot?#iefix') format('embedded-opentype'),
+        url('FreigeistXWide-Bold.woff2') format('woff2'),
+        url('FreigeistXWide-Bold.woff') format('woff'),
+        url('FreigeistXWide-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Freigeist XWide';
+    src: url('FreigeistXWide-Regular.eot');
+    src: local('Freigeist XWide'), local('FreigeistXWide-Regular'),
+        url('FreigeistXWide-Regular.eot?#iefix') format('embedded-opentype'),
+        url('FreigeistXWide-Regular.woff2') format('woff2'),
+        url('FreigeistXWide-Regular.woff') format('woff'),
+        url('FreigeistXWide-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
